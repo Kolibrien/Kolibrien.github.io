@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+﻿<html>
+﻿  <head>
+﻿    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="Alt om de største Esport spil">
+<meta name="keywords" content="Esport, spil">
+<meta name="author" content="Oliver Schlichter og Ruben Olsen">
+﻿    <title>Esport spil | Welcome</title>
+<link rel="stylesheet" href="./css/style.css">
+﻿  </head>
+﻿  <body>
+﻿<header>
+  <div class="container">
+    <div id="branding">
+      <h1>Esport Forum</h1>
+    </div>
+    <nav>
+<ul>
+  <li><a href="index.htm">Startside</a></li>
+  <li><a href="index.htm">Om os</a></li>
+  <li><a href="index.htm">Kontakt os</a></li>
+</ul>
+    </nav>
+  </div>
+</header>
+
+<section id="showcase">
+  <div class="container">
+    <h1>Alt om de største Esport spil</h1>
+    <p>Velkommen til Danmark's største Esports Forum</p>
+</div>
+</section>
+
+<section id="Nyhedsforum">
+  <div class="container">
+<h1>Abonner til vores nyhedsforum</h1>
+<form>
+  <input type="email" placeholder="Enter Email">
+  <button type="submit" class="button_1">Abonner</button>
+</form>
+  </div>
+</section>
+
+<section id="boxes">
+  <div class="container">
+    <div class="box">
+      <img src="./img/CSGO.png"
+      <h3>Counter Strike: Global Offensive</h3>
+      <p>Counter-Strike: Global Offensive er et taktisk online first-person shooter udviklet af Valve Corporation</p>
+  </div>
+  <div class="box">
+<img src="./img/LOL.png"
+    <h3>League of Legends</h3>
+    <p>League of Legends er et gratis Multiplayer Online Battle Arena spil, som er udviklet og publiceret af Riot Games</p>
+</div>
+<div class="box">
+<img src="./img/OW.jpg"
+  <h3>Overwatch</h3>
+  <p>Overwatch er et multiplayer first-person shooter computerspil udviklet og udgivet af Blizzard Entertainment</p>
+</div>
+</section>
+﻿  </body>
+﻿</html>
